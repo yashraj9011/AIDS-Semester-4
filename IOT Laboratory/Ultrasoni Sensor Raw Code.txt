@@ -1,0 +1,36 @@
+// C++ code
+//
+int echo = 11;
+int trig = 13;
+
+float sos=340.0;
+float distance;
+float pingtime;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(trig,OUTPUT);
+  pinMode(echo,INPUT);
+}
+
+void loop()
+
+{
+  
+  digitalWrite(trig, LOW);
+  delayMicroseconds(10);
+  digitalWrite(trig,HIGH);
+  delayMicroseconds(15);
+  digitalWrite(trig , LOW);
+  
+  pingtime= pulseIn(echo,HIGH);
+  delay(25);
+  
+  pingtime=pingtime/1000000.0;
+  distance=(sos*pingtime)/2.0;
+  distance=distance*100;
+  Serial.print("Distance");
+  Serial.println(distance);
+  
+}

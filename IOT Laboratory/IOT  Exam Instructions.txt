@@ -1,0 +1,12 @@
+For IOT practical sir has given some instruction.
+
+1.Write the problem statement .
+
+2.Draw the design diagram(circuit diagram)with their required component.
+
+3.Write the pseudo code.
+
+4.silmulate your practical on tinkercad.when the practical is running then show to the sir.
+
+5.If practical is 5,6,7,8 and 17 then simulate it virtually as well as physically
+6.After that write the table of actual and expected .
