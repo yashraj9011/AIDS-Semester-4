@@ -7,10 +7,10 @@ Courses that I have studied during Sophomore of my engineering offered by Depart
 
 
 `Semester:` 4<sup>th</sup> Sem  
-`Session:` April 2022 - June 2022   
+`Session:` February 2022 - May 2022   
 `Mode:` Offline 
 
-## Even Semester
+# Even Semester
 
 
 
@@ -97,8 +97,8 @@ Also implemented Assignments of Data Structures Algorithms Laboratory and Intern
 -  Simple beginner level project
 -  Use of Software Engineering Methodology and Git version control system .
 
-
-Hope this helps!  
+This are some keypoints which gives idea of curriculam! 
+ 
 Cheers!  
 
 
