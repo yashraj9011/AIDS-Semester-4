@@ -14,7 +14,7 @@ Courses that I have studied during Sophomore of my engineering offered by Depart
 
 
 
-### Semester - 04   {[Repository](https://github.com/yashraj9011/AIDS-Second-Year.git)}
+### Semester - 04 Curriculam 
 >> Subject Code | Subject Name | Course Instructor
 >> --- | --- | ---
 >> 210252| Data Structures & Algorithms |  Prof. Digambar Padulkar 
