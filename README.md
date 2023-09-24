@@ -1,17 +1,14 @@
 # Artificial Intelligence and Data Science
-# Second Year- VPKBIET
-
-
-Content :- Notes, Assignments and Lecture Slides.  
+# Second Year- VPKBIET  
  
   
 Courses that I have studied during Sophomore of my engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati.  
 
-`Semester:` 4<sup>th</sup>Sem
-`Session:` April 2022- June 2022   
-`mode:`  Offline
 
 
+`Semester:` 4<sup>th</sup> Sem  
+`Session:` April 2022 - June 2022   
+`Mode:` Offline 
 
 ## Even Semester
 
@@ -39,18 +36,18 @@ Courses that I have studied during Sophomore of my engineering offered by Depart
 >>  Project Based Learning | Heart Disease Prediction | [Link](https://github.com/yashraj9011/PBL-Activity.git)
 >>  Internet of Things | Smart Doorbell Surviellance | [Link](https://github.com/yashraj9011/AIDS-Second-Year.git)
 
-T
+
 
   
  
 
 
   
-I have studied 5 Courses during 4yh Semester of engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati. 
+I have studied 5 Courses during 4th Semester of engineering offered by Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
-Also implemented Laboratory Assignments of the same
+Also implemented Assignments of Data Structures Algorithms Laboratory and Internet of Things Laboratory .
 # 210252- Data Structures & Algorithms
-- 
+
 -  Concept of Hashing , collision , hash table , closed and open chaining .
 -  Trees terminology , traversal technique , Binary Search Tree ,Threaded binary search tree .   
 -  Graphs , representation using list , traversals  , greedy algorithms for computing minimum spanning tree . 
@@ -60,12 +57,12 @@ Also implemented Laboratory Assignments of the same
 -  File organization , Indexed sequential file organization and Linked Organization .
 
 # 210253-  Software Engineering 
--  Introduction to Data Structures and Algorithms 
--  Linear Data Structures  how they allocate memory in physical storage of machine, basically studied different types of arrays , Matrix 
-   implementation in c++
--  Searching and Sorting Techniques various algorithms divide and conquer , greedy .
--  Non Linear Data Structures  Linked List , Trees , Stacks and Queues in detail  with implementation in c++
-
+-  Introduction   Software Engineering , Software Process, Software Engineering Models .
+-  Requirements engineering , and analysis and use of various open source tools like smart draw .
+-  Cost Estimation and Project Scheduling in detail , tools like Gannt chart .
+-  Design Engineering principles and Architecture design .
+-  Risk Management and Software Configuration Management .
+-  Software Testing ,  Verification and Validation and Object-Oriented Software .
 
 #  217528- Statistics
 - Introduction to statistics ,population and different types of sampling methods .
@@ -73,7 +70,7 @@ Also implemented Laboratory Assignments of the same
 - Descriptive Statistics , measures of dispersion , skewness , kurtosis , correlation and regression
 - Random variables and distributed distributions and theoretical discrete ditributions.
 - Inferential Statistics containing hypothesis and its testing .
-- 
+  
       
 
 #  217529- Internet of Things
@@ -85,14 +82,20 @@ Also implemented Laboratory Assignments of the same
 - Applications of IOT in various sectors and communication between them .
 
 # 217530- Management Information System 
-- 
-- Process Management which consist of process sheduling and threading
-- Synchronization which consist of principles of concurrency , mutual exclusion, classical synchronization problems, Deadlock handling , prevention , avoidance , detection , recovery .
-- Memory Management , I/O Management , File Management and Linux O.S .
+- Overview of Management Information System 
+- Concepts , functions , roles , Business Intelligence for MIS .
+- Organization , Management and Network Enterprise .
+- IT Infrastructure and various emerging technologies .
+- E-commerce , digital marketing and digital goods , Business Applications .
+- Decision Making and Artificial Intelligence and Data Science for MIS .
   
 
-#217533- Project Based Learning 2
--
+# 217533- Project Based Learning 2
+-  Exploring various domains like Data Science , Machine Learning , Internet of Things, Artificial Intelligence
+-  Selected Machine Learning domain .
+-  Approved project idea by guide  and worked in team .
+-  Simple beginner level project
+-  Use of Software Engineering Methodology and Git version control system .
 
 
 Hope this helps!  
