@@ -48,13 +48,13 @@ I have studied 5 Courses during 4th Semester of engineering offered by Departmen
 Also implemented Assignments of Data Structures Algorithms Laboratory and Internet of Things Laboratory .
 # 210252- Data Structures & Algorithms
 
--  Concept of Hashing , collision , hash table , closed and open chaining .
--  Trees terminology , traversal technique , Binary Search Tree ,Threaded binary search tree .   
+-  Concept of Hashing , Collision , Hash table , Closed and Open Chaining .
+-  Trees terminology , traversal technique , Binary Search Tree , Threaded Binary Search Tree .   
 -  Graphs , representation using list , traversals  , greedy algorithms for computing minimum spanning tree . 
 -  Dijkstras Algorithm , Kruskal and Prims Algorithms , Floyd-Warshall Algorithm .
 -  Searching in trees , representation of symbol tables , OBST (Optimal Binary Search Tree ) , OBST an example of dynamic programming , AVL tree , splay tree , AA tree,  Red-Black tree , k-dimensional tree .
--  Indexing and multiway tree , B-tree and B+ tree insertion and deletion , uses .
--  File organization , Indexed sequential file organization and Linked Organization .
+-  Indexing and multiway tree , B-tree and B+ tree insertion and deletion , Uses .
+-  File Organization , Indexed Sequential File Organization and Linked Organization .
 
 # 210253-  Software Engineering 
 -  Introduction   Software Engineering , Software Process, Software Engineering Models .
@@ -62,10 +62,10 @@ Also implemented Assignments of Data Structures Algorithms Laboratory and Intern
 -  Cost Estimation and Project Scheduling in detail , tools like Gannt chart .
 -  Design Engineering principles and Architecture design .
 -  Risk Management and Software Configuration Management .
--  Software Testing ,  Verification and Validation and Object-Oriented Software .
+-  Software Testing , Verification and Validation and Object-Oriented Software .
 
 #  217528- Statistics
-- Introduction to statistics ,population and different types of sampling methods .
+- Introduction to statistics , population and different types of sampling methods .
 - Descriptive Statistics , measures of central tendency , various frequency distributions  .
 - Descriptive Statistics , measures of dispersion , skewness , kurtosis , correlation and regression
 - Random variables and distributed distributions and theoretical discrete ditributions.
@@ -97,7 +97,7 @@ Also implemented Assignments of Data Structures Algorithms Laboratory and Intern
 -  Simple beginner level project
 -  Use of Software Engineering Methodology and Git version control system .
 
-This are some keypoints which gives idea of curriculam! 
+This are some keypoints which gives idea of curriculam I studied in Even semester! 
  
 Cheers!  
 
