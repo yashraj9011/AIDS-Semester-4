@@ -34,8 +34,7 @@ Courses that I have studied during Sophomore of my engineering offered by Depart
 >>  Subject name | Project Name | Repository
 >>  --- | --- | ---
 >>  Project Based Learning | Heart Disease Prediction | [Link](https://github.com/yashraj9011/PBL-Activity.git)
->>  Internet of Things | Smart Doorbell Surviellance | [Link](https://github.com/yashraj9011/AIDS-Second-Year.git)
-
+>>  Internet of Things | Smart Doorbell Surviellance  | [Link](https://github.com/yashraj9011/IoT-Mini-Project-.git)
 
 
   
