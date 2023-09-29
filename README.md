@@ -26,7 +26,7 @@ Courses that I have studied during Sophomore of my engineering offered by Depart
 >> 217532 | Data Structures & Algorithms Laboratory |  Prof. Digambar Padulkar 
 >> 217533 | Project Based Learning 2 | Prof. Rajkumar Panchal
 >> 217534 | Code of Conduct | Prof. Sahil Shah
->> 217535D| Stress Relief : Yoga & Meditation | Dr. Anil Patil
+>> 217535D| Audit Course - Yoga & Meditation | Dr. Anil Patil
 
 
 
