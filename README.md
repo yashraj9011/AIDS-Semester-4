@@ -68,8 +68,8 @@ Also implemented Assignments of Data Structures Algorithms Laboratory and Intern
 #  217528- Statistics
 - Introduction to statistics , population and different types of sampling methods .
 - Descriptive Statistics , measures of central tendency , various frequency distributions  .
-- Descriptive Statistics , measures of dispersion , skewness , kurtosis , correlation and regression
-- Random variables and distributed distributions and theoretical discrete ditributions.
+- Descriptive Statistics , measures of dispersion , skewness , kurtosis , correlation and regression .
+- Random variables and distributed distributions and theoretical discrete ditributions .
 - Inferential Statistics containing hypothesis and its testing .
   
       
@@ -77,13 +77,13 @@ Also implemented Assignments of Data Structures Algorithms Laboratory and Intern
 #  217529- Internet of Things
 - Fundamentals of Digital Electronics .
 - Communication interfaces and basic peripherals . 
-- Introduction to IOT and various technologies behind smart and intelligent devices.
+- Introduction to IOT and various technologies behind smart and intelligent devices .
 - Various IOT systems , networks and protocols asoociated with it . 
 - IOT design and system engineering, sensors and actuators .
 - Applications of IOT in various sectors and communication between them .
 
 # 217530- Management Information System 
-- Overview of Management Information System 
+- Overview of Management Information System . 
 - Concepts , functions , roles , Business Intelligence for MIS .
 - Organization , Management and Network Enterprise .
 - IT Infrastructure and various emerging technologies .
@@ -95,7 +95,7 @@ Also implemented Assignments of Data Structures Algorithms Laboratory and Intern
 -  Exploring various domains like Data Science , Machine Learning , Internet of Things, Artificial Intelligence
 -  Selected Machine Learning domain .
 -  Approved project idea by guide  and worked in team .
--  Simple beginner level project
+-  Simple beginner level project .
 -  Use of Software Engineering Methodology and Git version control system .
 
 This are some keypoints which gives idea of curriculam I studied in Even semester! 
