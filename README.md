@@ -2,7 +2,7 @@
 # Second Year- VPKBIET  
  
   
-Courses that I have studied during Sophomore of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati.  
+Courses that I have studied during Sophomore of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .  
 
 
 
