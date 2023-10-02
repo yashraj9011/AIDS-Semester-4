@@ -2,7 +2,7 @@
 # Second Year- VPKBIET  
  
   
-Courses that I have studied during Sophomore of my engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati.  
+Courses that I have studied during Sophomore of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati.  
 
 
 
@@ -42,9 +42,11 @@ Courses that I have studied during Sophomore of my engineering offered by Depart
 
 
   
-I have studied 5 Courses during 4th Semester of engineering offered by Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
+I have studied 5 Courses during 4th Semester of engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
-Also implemented Assignments of Data Structures Algorithms Laboratory and Internet of Things Laboratory .
+Also implemented Assignments of Data Structures Algorithms Laboratory and Internet of Things Laboratory . I have obtained 22 credits in this semester and in total of Second Year scored SGPA of 7.23 .
+
+
 # 210252- Data Structures & Algorithms
 
 -  Concept of Hashing , Collision , Hash table , Closed and Open Chaining .
